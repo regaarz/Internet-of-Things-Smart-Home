@@ -1,4 +1,10 @@
 # Internet-of-Things-Smart-Home
+Kelompok 2 : 
+- Rega Arzula Akbar
+- Abdurrahman Zabron
+- Naufal Alfath Supriyanto
+- Neisha Vernanda Susanto
+
 Topik tugas besar Internet of Things
 Judul : Implementasi Teknologi Internet of Things (IoT) untuk Monitoring Jemuran dan Kontrol Otomatis Pencahayaan.
 
