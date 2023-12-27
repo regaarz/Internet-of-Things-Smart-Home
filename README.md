@@ -1,4 +1,4 @@
-# Internet-of-Things-Smart-Home
+# Tugas Besar PTE
 Kelompok 2 : 
 - Rega Arzula Akbar
 - Abdurrahman Zabron
