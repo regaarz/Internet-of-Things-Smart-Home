@@ -1,9 +1,9 @@
 # Tugas Besar PTE
 Kelompok 2 : 
-- Rega Arzula Akbar
 - Abdurrahman Zabron
 - Naufal Alfath Supriyanto
 - Neisha Vernanda Susanto
+- Rega Arzula Akbar
 
 Topik tugas besar Internet of Things
 Judul : Implementasi Teknologi Internet of Things (IoT) untuk Monitoring Jemuran dan Kontrol Otomatis Pencahayaan.
